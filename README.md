@@ -31,7 +31,7 @@ The Grill Restaurant Booking Website is designed to provide a seamless dining re
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/grill-restaurant-booking.git
+gh repo clone Vikashsingh845274/Grill_Restaurent-Booking
 ```
 
 2. Navigate to the project directory:
